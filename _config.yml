@@ -2,7 +2,7 @@ title:              Bugeon Kim
 email:              bearbu@naver.com
 description:        Bugeon blog
 author:             bukim
-baseurl:            "/bugeon.github.io"
+baseurl:            "https://bugeon.github.io"
 url:                "https://bugeon.github.io"
 
 # Social Profiles
